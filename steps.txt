@@ -1,0 +1,13 @@
+1.Gere um número aleatório de 1 a 100 e armazene-o como um número alvo para o jogador adivinhar.
+	
+2. Mantenha o controle de quantos palpites o jogador fez. Antes de cada palpite, deixe-os saber quantos palpites (de 10) restaram.
+
+3. Peça ao jogador para adivinhar qual é o número alvo.
+	
+4. Se o palpite do jogador for menor que o número alvo, diga: “Opa. Seu palpite foi BAIXO.” Se o palpite do jogador for maior que o número alvo, diga: “Opa. Seu palpite foi ALTO.”
+	
+5. Se o palpite do jogador for igual ao número alvo, diga: “Bom trabalho, [nome]! Você adivinhou meu número em [número de palpites] palpites!”
+	
+6. Se o jogador ficar sem turnos sem adivinhar corretamente, diga: “Desculpe. Você não pegou meu número. Meu número era [alvo].”
+	
+7. Continue permitindo que o jogador adivinhe até acertar ou ficar sem turnos.
